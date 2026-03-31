@@ -1,0 +1,5 @@
+index,pred_file,gt_file,mode,mse,mae,psnr,ssim,panel
+0,xray_view_000.png,gt_view_000.png,normal,0.024952920153737068,0.15783488750457764,16.028786230889075,0.848804395231247,block0_compare_out\panels\compare_000.png
+1,xray_view_001.png,gt_view_001.png,normal,0.02524500899016857,0.1586752086877823,15.978244703089622,0.859733303894043,block0_compare_out\panels\compare_001.png
+2,xray_view_002.png,gt_view_002.png,normal,0.024842403829097748,0.1575053185224533,16.04806382762685,0.8436993934421539,block0_compare_out\panels\compare_002.png
+3,xray_view_003.png,gt_view_003.png,normal,0.025096625089645386,0.1580912470817566,16.003846770644227,0.8577010702905655,block0_compare_out\panels\compare_003.png
